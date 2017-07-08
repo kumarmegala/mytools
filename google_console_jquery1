@@ -1,0 +1,14 @@
+- goto page rt-click inpsect element
+- again rt-click - from meny Copy -> Copu xpath
+got to google chrome console 
+
+/html/body/div/table/tbody/tr/td[3]/font[5]/table/tbody/tr[9]/td[2]/font
+
+citylist=($x('/html/body/div/table/tbody/tr/td[*]/font[*]/table/tbody/tr[*]/td[*]/font'));
+
+var s = "";
+for(var i = 0; i < 100; i += 1) {
+  s += citylist[i].outerText + " \n ";
+}
+console.log(s);
+
