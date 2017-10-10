@@ -1,1 +1,23 @@
 git clone http://myrepo.myname.mycom
+git branch mynewwork
+git checkout mynewwork
+
+git add 
+
+git commit -m "mynew work"
+
+git push origin mynewwork
+=====================
+
+- create pull request from UI
+- it will create review
+- once review is done -- it will be in merged 
+
+
+
+
+
+
+
+
+
