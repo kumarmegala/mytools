@@ -15,6 +15,21 @@ git push origin mynewwork
 
 
 
+git clone https://github.com/kumarmegala/angular_route.git
+
+git branch  chagnecssg
+git checkout changecss
+==============================
+
+git add 
+git commit -m "all changes done "
+git push origin changecss
+
+
+
+
+
+
 
 
 
