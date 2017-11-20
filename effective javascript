@@ -1,4 +1,13 @@
-
+Item 1: Know the version
+        - make sure javascript version supported by browser
+        - use strict mode - to implicity check some errors
+        
+        
+Itemm 53: consistent conventions
+         class Wiget
+         funtion  update_bounce()
+         var noisyFactor, baseRate;
+         
 Item 54: undefined is special
   var x ; // x is undefined
    explicity check ==undefind 
