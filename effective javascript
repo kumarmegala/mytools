@@ -1,0 +1,5 @@
+
+Item 54: undefined is special
+  var x ; // x is undefined
+   explicity check ==undefind 
+  - do not if(x) alwasy if( x == undefined)
