@@ -26,8 +26,8 @@ git commit -m "all changes done "
 git push origin changecss
 
 
-
-
+=========================
+git remote set-url origin  https://e7412790c5b680f18a3d0b34ab28c02d1f969c38@bbgithub.dev.<companyy.com/OrgName/reponame.git
 
 
 
