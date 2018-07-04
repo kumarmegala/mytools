@@ -1,0 +1,32 @@
+1. rightclick inspect element
+2. in the source right click and copy the xpath
+3. copy the first element
+4. get the second element
+
+namelist=($x('/html/body/div[4]/div[3]/ul/li/ul/li/ul[1]/li/pre'))
+namelist=($x('/html/body/div[4]/div[3]/ul/li/ul/li/ul[2]/li/pre'))
+
+namelist=($x('/html/body/div[4]/div[3]/ul/li/ul/li/ul[*]/li/pre'))
+var s = "";
+for(var i = 0; i < 100; i += 1) {
+  s += citylist[i].outerText + " \n ";
+}
+console.log(s);
+
+https://docs.oracle.com/javase/7/docs/api/java/util/Map.html
+
+int size() 
+ boolean isEmpty() 
+ boolean containsKey(Object key) 
+ boolean containsValue(Object value) 
+ V get(Object key) 
+ V put(K key,    V value) 
+ V remove(Object key) 
+ void putAll(Map<? extends K,? extends V> m) 
+ void clear() 
+ Set<K> keySet() 
+ Collection<V> values() 
+ Set<Map.Entry<K,V>> entrySet() 
+ boolean equals(Object o) 
+ int hashCode() 
+
