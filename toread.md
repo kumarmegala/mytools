@@ -1,5 +1,8 @@
 07/18/2018
 https://www.codeproject.com/Articles/4210/C-Reverse-Disassembly
+https://www.faculty.ece.vt.edu/chaowang/pubDOC/Li13SymRAS.pdf
+https://www.cse.wustl.edu/~jain/cse567-06/ftp/sw_monitors1.pdf
+
 
 
 
