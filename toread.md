@@ -1,6 +1,6 @@
-07/19/2018
+#07/19/2018
 https://github.com/jwasham/coding-interview-university
-
+https://github.com/eriklindernoren/ML-From-Scratch
 
 
 
