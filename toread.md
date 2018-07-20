@@ -1,6 +1,9 @@
+# test
+http://jamesgolick.com/2013/5/15/memory-allocators-101.html
+
 #07/19/2018
-https://github.com/jwasham/coding-interview-university
-https://github.com/eriklindernoren/ML-From-Scratch
+##https://github.com/jwasham/coding-interview-university
+##https://github.com/eriklindernoren/ML-From-Scratch
 
 
 
