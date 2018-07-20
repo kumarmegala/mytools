@@ -1,4 +1,4 @@
-
+https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html
 
 https://clarifai.com/pricing
 
