@@ -1,1 +1,11 @@
 UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 395: ordinal not in range(128)
+
+
+DataStrcture
+HashofArrays
+   hofA={}
+   if( key not in hofA):
+       hofA[key] = []
+   hofA[key].append( {'key':value })
+       
+       
