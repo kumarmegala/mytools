@@ -1,3 +1,7 @@
+
+https://www.bhphotovideo.com/c/product/1258847-REG/dell_p2217h_22_16_9_ips.html
+
+
 https://www.bestbuy.com/site/nokia-3310-cell-phone-unlocked-yellow/6092432.p?skuId=6092432&ref=212&loc=1&ds_rl=1255843&ds_rl=1260579&ds_rl=1266837&ref=212&loc=1&ds_rl=1266837&ds_rl=1255843&gclid=EAIaIQobChMI9qLxifaD3wIV1Y2zCh2OZALZEAQYAiABEgJtL_D_BwE&gclsrc=aw.ds
 
 
