@@ -1,4 +1,6 @@
 
+https://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-5.5.pdf
+
 faceting - arranging search results in columns with numerical counts of key terms
 Solr build on Lucene - Java library
     - index, search, spellcheck
@@ -24,6 +26,6 @@ post doc
 
 # cloud, schemaless, diH (dataImport Handler)
 
-# C
+# 
 ---------------------------------
 core, collections,schemaless,dataImportHandler, 
