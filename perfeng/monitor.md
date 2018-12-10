@@ -1,4 +1,10 @@
 Solaris
+
+# psrinfo 
+
+Number of core
+#  kstat cpu_info|grep core_id|sort -u|wc -l 
+
  ps -A -o user,uid,comm,pid,pcpu,tty | sort -k5 -r | more
 
 $ ps -A -o user,uid,comm,pid,pcpu,tty | sort -k5 -r | more
