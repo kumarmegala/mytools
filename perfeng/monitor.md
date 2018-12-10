@@ -1,13 +1,14 @@
 Solaris
 
+Number of Core's
 # psrinfo 
 
 Number of core
 #  kstat cpu_info|grep core_id|sort -u|wc -l 
 
- ps -A -o user,uid,comm,pid,pcpu,tty | sort -k5 -r | more
 
-$ ps -A -o user,uid,comm,pid,pcpu,tty | sort -k5 -r | more
+# ps -A -o user,uid,comm,pid,pcpu,tty | sort -k5 -r | more
+
     USER   UID COMMAND                                                                            PID %CPU TT
 test   93791 ./a.out                                                                          13371  0.4 pts/53
 
@@ -19,3 +20,5 @@ Memory: 1022G phys mem, 606G free mem, 226G total swap, 226G free swap
 
    PID USERNAME NLWP PRI NICE  SIZE   RES STATE    TIME    CPU COMMAND
  13371 ksundara    1   0    0 4776K 3112K cpu/**   1:48  0.39% a.out
+
+#----------------- How to CPU 100 busy on 128
