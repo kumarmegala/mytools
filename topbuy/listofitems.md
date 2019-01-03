@@ -1,4 +1,9 @@
 
+phone:
+https://www.amazon.com/LONG-CZ-J8-Bluetooth-dialer-earphone%EF%BC%8CUnlock/dp/B00O586YB2
+
+
+
 https://www.bhphotovideo.com/c/product/1258847-REG/dell_p2217h_22_16_9_ips.html
 
 
