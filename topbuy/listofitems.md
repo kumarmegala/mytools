@@ -1,4 +1,10 @@
 
+https://www.amazon.com/dp/B00LTHE6KS/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B00LTHE6KS&pd_rd_w=EW9M7&pf_rd_p=21517efd-b385-405b-a405-9a37af61b5b4&pd_rd_wg=BjwTZ&pf_rd_r=ARD6XKCT5XYBCN67VMWF&pd_rd_r=04460061-1844-11e9-ada6-4f962de1ffe7
+
+https://www.amazon.com/homEdge-Universal-Capacitive-Samsung-Compatible/dp/B07F882S6V/ref=pd_sim_107_3?_encoding=UTF8&pd_rd_i=B07F882S6V&pd_rd_r=077c4c47-1844-11e9-8494-1fa06fc889c5&pd_rd_w=fxH6X&pd_rd_wg=JyLx3&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=1THF7TDKVW0PNA29CKH2&psc=1&refRID=1THF7TDKVW0PNA29CKH2
+
+
+
 homes:
 https://www.google.com/maps/place/27+Crestwood+Dr,+Bridgewater,+NJ+08807/@40.5936511,-74.602114,3a,75y,274.32h,81.77t/data=!3m6!1e1!3m4!1saCRoaIk4WUIaf9BBX60moQ!2e0!7i13312!8i6656!4m5!3m4!1s0x89c3957ad33b1211:0xf3b5a03ca0155d23!8m2!3d40.5936724!4d-74.602481
 
