@@ -1,5 +1,8 @@
 
 
+https://www.homedepot.com/p/Leviton-15-Amp-Decora-Combination-Tamper-Resistant-Duplex-Outlet-and-USB-Charger-White-3-Pack-M02-T5632-3BW/301351320
+
+
 https://www.homedepot.com/p/proHT-3-Outlet-Surge-Protector-with-2-USB-Ports-and-Phone-Cradles-NSS17/206857976?MERCH=REC-_-PIPHorizontal2_rr-_-300130040-_-206857976-_-N
 
 
