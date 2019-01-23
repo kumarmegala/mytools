@@ -1,3 +1,11 @@
+
+The Path to Predictive Analytics and Machine Learning. 
+        Learn how to implement predictive analytics, then move to machine learning and AI.
+Building Real-Time Data Pipelines.
+      Find out how to build data pipelines that cut across data silos and speed decision making.
+Data Warehousing in the Age of Artificial Intelligence. 
+       Learn how to use a memory-first database and pipelines to prepare your data warehouse for machine learning and AI.
+
 # test
 http://jamesgolick.com/2013/5/15/memory-allocators-101.html
 
