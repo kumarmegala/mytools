@@ -17,3 +17,22 @@ Validation
    
    
 
+ourse Topics
+
+Interception Proxies
+ZAP (Zed Attack Proxy)
+Burp Suite
+SQL Injection
+Blind SQL Injection
+Reflected Cross-Site Scripting (XSS)
+Stored Cross-Site Scripting (XSS)
+Local File Inclusion (LFI)
+Remote File Inclusion (RFI)
+Cross-Site Request Forgery (CSRF/XSRF)
+You Will Learn:
+
+To apply a repeatable methodology to deliver high-value penetration tests.
+How to discover and exploit key web application flaws.
+How to explain the potential impact of web application vulnerabilities.
+The importance of web application security to an overall security posture.
+How to wield key web application attack tools more efficiently.
