@@ -1,4 +1,8 @@
 
+https://www.forbes.com/sites/kateoflahertyuk/2019/02/12/hackers-have-just-put-620-million-online-account-details-up-for-sale-is-yours-on-the-list/#7530635d4418
+
+
+
 The Path to Predictive Analytics and Machine Learning. 
         Learn how to implement predictive analytics, then move to machine learning and AI.
 Building Real-Time Data Pipelines.
