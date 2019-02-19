@@ -25,8 +25,8 @@ process
   strace
 
 Threads
-  
-==============
+#  
+
 top or pidof
 
 top -H -p 143951
