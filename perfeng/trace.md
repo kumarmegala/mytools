@@ -29,4 +29,18 @@ Threads
 
 top or pidof
 
-top -H -p 143951
+top -H -p 143951 
+
+pick one thread
+
+gdb a.out 143952
+
+where
+
+disas /m <nameoffunctions> or lookfor 
+disas 0x40092d
+disas /m f3
+  
+  
+
+
