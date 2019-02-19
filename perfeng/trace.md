@@ -3,7 +3,7 @@
   psrinfo
   mpstat
   top
-  top -H -p 125913
+  top -H -p 
   
 memory
   /usr/sbin/prtdiag | head
