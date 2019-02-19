@@ -1,16 +1,16 @@
- cpu
-  /usr/bin/kstat -m cpu_info
-  psrinfo
-  mpstat
-  top
-  top -H -p 
+# cpu
+  ## /usr/bin/kstat -m cpu_info
+  ## psrinfo
+  ## mpstat
+  ## top
+  ## top -H -p 
   
-memory
+#memory
   /usr/sbin/prtdiag | head
   /usr/proc/bin/pmap -x <process-id>
    prtconf|grep Memory
  pmap <pid> 
-network
+#network
   netstat
 
 
@@ -26,3 +26,7 @@ process
 
 Threads
   
+==============
+top or pidof
+
+top -H -p 143951
