@@ -1,8 +1,9 @@
-cpu
+ cpu
   /usr/bin/kstat -m cpu_info
   psrinfo
   mpstat
   top
+  top -H -p 125913
   
 memory
   /usr/sbin/prtdiag | head
