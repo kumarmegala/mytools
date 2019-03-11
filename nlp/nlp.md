@@ -28,3 +28,4 @@ Segment 4 Applications (70m)
 Understand Word2vec word embeddings
 Define GloVe
 Apply Language detection
+test
