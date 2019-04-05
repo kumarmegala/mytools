@@ -1,3 +1,6 @@
+
+https://www.nltk.org/book/
+
 Bruno Gonçalves is currently a Vice President in Data Science and Finance at JPMorgan Chase. Previously, he was a Data Science fellow at NYU's Center for Data Science while on leave from a tenured faculty position at Aix-Marseille Université. Since completing his PhD in the Physics of Complex Systems in 2008 he has been pursuing the use of Data Science and Machine Learning to study Human Behavior. Using large datasets from Twitter, Wikipedia, web access logs, and Yahoo! Meme he studied how we can observe both large scale and individual human behavior in an obtrusive and widespread manner. The main applications have been to the study of Computational Linguistics, Information Diffusion, Behavioral Change and Epidemic Spreading. In 2015 he was awarded the Complex Systems Society's 2015 Junior Scientific Award for "outstanding contributions in Complex Systems Science" and he is the editor of the book Social Phenomena: From Data Analysis to Models (Springer, 2015).
 
 
