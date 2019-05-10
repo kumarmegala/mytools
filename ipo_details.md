@@ -9,10 +9,14 @@
 
 4.5% shared out
 
-8 million shares => 364 millions
-based on that 
-rest of value set
-
+8 million shares => $364 millions money give value to 
+180 millions => 8 Billions
 
 Vol == 186,056,000
 
+===========
+
+39 Billions manger salar 9.25 million
+=> 8.1% gain which 4% below industry averge endowments
+
+ 
