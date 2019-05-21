@@ -5,6 +5,10 @@
   ## top
   ## top -H -p 
   
+
+ps -aef  -o user,pid,rss -o args
+
+
 #memory
   /usr/sbin/prtdiag | head
   /usr/proc/bin/pmap -x <process-id>
