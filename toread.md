@@ -1,9 +1,14 @@
 
-2019-06-10
-https://github.com/teslamotors/buildroot
-https://www.theinquirer.net/inquirer/news/3032649/tesla-open-sources-some-of-its-autopilot-source-code
-https://www.bloomberg.com/news/articles/2019-06-10/upgrade-your-memory-with-a-surgically-implanted-chip?srnd=premium
-https://www.bloomberg.com/news/features/2019-06-06/towing-an-iceberg-one-captain-s-plan-to-bring-drinking-water-to-4-million-people
+##2019-06-10
+#https://github.com/teslamotors/buildroot
+#https://www.theinquirer.net/inquirer/news/3032649/tesla-open-sources-some-of-its-autopilot-source-code
+#https://www.bloomberg.com/news/articles/2019-06-10/upgrade-your-memory-with-a-surgically-implanted-chip?srnd=premium
+#https://www.bloomberg.com/news/features/2019-06-06/towing-an-iceberg-one-captain-s-plan-to-bring-drinking-water-to-4-million-people
+
+anlytics 
+https://www.bloomberg.com/news/articles/2019-06-10/salesfoce-to-buy-tableau-for-15-3-billion-in-analytics-push?srnd=premium
+https://www.nytimes.com/2019/06/06/technology/google-data-analytics-looker-acquisition.html
+
 
 ==========>
 
