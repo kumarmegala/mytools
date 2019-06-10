@@ -30,6 +30,13 @@ git remote set-url origin  https://e7412790c5b680f18a3d0b34ab28c02d1f969c38@bbgi
 
 
 
+============
+how to sync current branch with master
+git checkout master
+git pull
+git checkout mobiledevicesupport
+git merge master
+############################
 
 
 
