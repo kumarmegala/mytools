@@ -1,5 +1,6 @@
 
 ##2019-06-10
+
 #https://github.com/teslamotors/buildroot
 #https://www.theinquirer.net/inquirer/news/3032649/tesla-open-sources-some-of-its-autopilot-source-code
 #https://www.bloomberg.com/news/articles/2019-06-10/upgrade-your-memory-with-a-surgically-implanted-chip?srnd=premium
