@@ -1,3 +1,18 @@
+
+2019-06-10
+https://github.com/teslamotors/buildroot
+https://www.theinquirer.net/inquirer/news/3032649/tesla-open-sources-some-of-its-autopilot-source-code
+https://www.bloomberg.com/news/articles/2019-06-10/upgrade-your-memory-with-a-surgically-implanted-chip?srnd=premium
+https://www.bloomberg.com/news/features/2019-06-06/towing-an-iceberg-one-captain-s-plan-to-bring-drinking-water-to-4-million-people
+
+==========>
+
+
+
+
+
+
+
 05/03
 
 http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf
