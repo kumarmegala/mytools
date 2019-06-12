@@ -38,5 +38,9 @@ Number of core
 
 ps -aef | grep a.out | grep -v grep | awk '{ print "kill "$2 }' | sh
 
+ ps -eLF | head -n 1
+ ps -eLF | grep bizint_bval_calcrt.py
+
+
 
 
