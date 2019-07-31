@@ -1,3 +1,5 @@
+http://www.simunova.com/en/trainingDetails/advanced/advancedDetails/
+
 New techniques
 Range-based for-loops (C++11)
 RValues and move semantics (C++11)
