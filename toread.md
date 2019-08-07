@@ -8,6 +8,9 @@
 
 # Robert C. Martin talks about this in “Clean Code”:
 
+https://code.visualstudio.com/docs/getstarted/introvideos
+
+
 ##2019-06-10
 
 #https://github.com/teslamotors/buildroot
