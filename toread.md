@@ -3,7 +3,10 @@
 ### 08/07/2029
 
 
-https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41342.pdf
+# https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41342.pdf
+
+
+# Robert C. Martin talks about this in “Clean Code”:
 
 ##2019-06-10
 
