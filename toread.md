@@ -1,4 +1,9 @@
 
+
+### 08/07/2029
+
+
+
 ##2019-06-10
 
 #https://github.com/teslamotors/buildroot
@@ -21,7 +26,7 @@ https://www.nytimes.com/2019/06/06/technology/google-data-analytics-looker-acqui
 
 05/03
 
-http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf
+#http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf
 
 
 
