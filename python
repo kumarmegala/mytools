@@ -23,4 +23,8 @@ DataStrcture
           hofA[key] = []
       hofA[key].append( {'key':value })
        
-       
+ 
+======      
+inspect.stack() returns array and it has current function name
+
+[FrameInfo(frame=<frame object at 0x1b47328>, filename='./bizint_clean_files.py', lineno=95, function='cleanDirectories', code_context=[' print(inspect.stack())\n'], index=0), FrameInfo(frame=<frame object at 0x7faa3520b048>, filename='./bizint_clean_files.py', lineno=167, function='main', code_context=[' cleanDirectories ( options )\n'], index=0), FrameInfo(frame=<frame object at 0x164f058>, filename='./bizint_clean_files.py', lineno=175, function='<module>', code_context=[' main( )\n'], index=0)]
