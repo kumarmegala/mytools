@@ -39,6 +39,9 @@ git merge master
 ############################
 
 
+==> How to get log 
+git log --pretty=oneline
+
 
 
 
