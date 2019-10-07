@@ -4,7 +4,7 @@ https://explained.ai/
 https://artint.info/AIPython/aipython.pdf
 
 
-
+https://towardsdatascience.com/october-edition-breaking-into-data-science-2a845963816e
 I Artificial Intelligence 
 
 Biometric Identification 
