@@ -4,7 +4,10 @@ https://explained.ai/
 https://artint.info/AIPython/aipython.pdf
 
 
-https://towardsdatascience.com/october-edition-breaking-into-data-science-2a845963816e
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+
+
+
 I Artificial Intelligence 
 
 Biometric Identification 
