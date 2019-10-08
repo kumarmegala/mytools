@@ -1,6 +1,9 @@
 https://explained.ai/
 
 
+https://www.analyticsvidhya.com/blog/2019/06/simplifying-google-ai-best-paper-icml-2019/
+
+
 https://artint.info/AIPython/aipython.pdf
 
 
