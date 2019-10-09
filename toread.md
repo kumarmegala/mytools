@@ -1,4 +1,6 @@
 
+http://analytics-magazine.org/how-big-data-is-changing-the-oil-a-gas-industry/
+
 
 ### 08/07/2029
 
