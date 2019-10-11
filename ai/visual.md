@@ -1,3 +1,6 @@
+
+http://ufldl.stanford.edu/tutorial/selftaughtlearning/SelfTaughtLearning/
+
 https://explained.ai/
 
 
