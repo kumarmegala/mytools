@@ -6,3 +6,22 @@ and while some may see them as the crazy ones, we see genius, because the ones w
 they can change the world, are the ones who do.
 
 — Steve Jobs, 1997
+
+
+
+1.
+Lakshmi Asu machine
+https://en.wikipedia.org/wiki/Chintakindi_Mallesham
+Mallesham Chintakindi, a weaver from Sharjipet village in Andhra Pradesh,
+
+2.
+https://en.wikipedia.org/wiki/William_Kamkwamba
+
+
+3.
+after 28 years
+Linux began in 1991 as a personal project by Finnish student Linus Torvalds: to create a new free operating system kernel.
+https://en.wikipedia.org/wiki/History_of_Linux
+In 1987, MINIX, a Unix-like system intended for academic use, was released by Andrew S. Tanenbaum t
+
+
