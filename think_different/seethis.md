@@ -25,3 +25,5 @@ https://en.wikipedia.org/wiki/History_of_Linux
 In 1987, MINIX, a Unix-like system intended for academic use, was released by Andrew S. Tanenbaum t
 
 
+4.
+iWoz: Computer Geek to Cult Icon: How I Inven… (Paperback)by Steve Wozniak, Gina Smith
