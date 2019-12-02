@@ -1,4 +1,7 @@
 
+https://archive.org/details/AcceleratedCAndrewKoenigBarbaraE.Moo/page/n339
+
+https://github.com/kumarmegala/mytools/edit/master/toread.md
 http://analytics-magazine.org/how-big-data-is-changing-the-oil-a-gas-industry/
 
 
