@@ -7,3 +7,6 @@ each page 6 problems  3 rows
 
 https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
 
+
+https://www.k12reader.com/subject/grammar/parts-of-speech/adjective-worksheets/
+
