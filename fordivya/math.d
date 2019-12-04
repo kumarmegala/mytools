@@ -5,3 +5,5 @@ RHS =
 24 pages
 each page 6 problems  3 rows
 
+https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
+
