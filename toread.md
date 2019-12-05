@@ -1,4 +1,10 @@
 
+XTX -- the name refers to a mathematical formula used in its trading algorithms -- relies on data analytics and massive computing power. The firm’s website boasts of its 42 petabytes of usable storage and 850 terabytes of random-access memory, helping it handle more than $150 billion in daily trading volume across stocks, currencies, fixed income and commodities.
+
+Data from LinkedIn show it has a workforce that would look more at home in Silicon Valley than the City of London, as employees with computer science backgrounds far outnumber those schooled in finance and economics. XTX, in a move echoing a past Google strategy, started an online contest this year with a $100,000 prize to help find data scientists. Staff events include chess competitions, and Gerko and his firm have sponsored the International Mathematical Olympiad, Oxford Mathematics Public Lectures and the King’s Maths School in London.
+
+
+
 https://archive.org/details/AcceleratedCAndrewKoenigBarbaraE.Moo/page/n339
 
 https://github.com/kumarmegala/mytools/edit/master/toread.md
