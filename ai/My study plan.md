@@ -1,7 +1,13 @@
 - classification
+- multiclass 
+- regression
+- predict functions
+- training data
+- supervised 
 
-- predict 
-- 
+
+- Detect email address
+
 
 NLP 
 http://www.nltk.org/book/term_index.html
@@ -25,5 +31,7 @@ Vocabulary
 - predict functions
 - diagnosis - rule based systems capture by if and else
 - knowledge based systems
+- Is there a cat in the image/video/text ?
 - 
+
 
