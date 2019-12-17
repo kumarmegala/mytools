@@ -1,5 +1,7 @@
-# predict 
-# 
+- classification
+
+- predict 
+- 
 
 NLP 
 http://www.nltk.org/book/term_index.html
@@ -12,4 +14,16 @@ https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
 Input:process,output
 
 - Training Data
+- predict stock price 
+- regression means - predict numbers
+  (linear regression)
+- prediction function
+  spam email
+  medical dia-gno-sis
+- 
+Vocabulary
+- predict functions
+- diagnosis - rule based systems capture by if and else
+- knowledge based systems
+- 
 
