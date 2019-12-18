@@ -1,3 +1,6 @@
+
+https://youtu.be/G4UVJoGFAv0
+
 - classification
 - multiclass 
 - regression
@@ -33,5 +36,4 @@ Vocabulary
 - knowledge based systems
 - Is there a cat in the image/video/text ?
 - 
-
 
