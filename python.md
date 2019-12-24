@@ -2,7 +2,9 @@
 #Json
 use json.dumps() instead of str() so that json.dumps() can read by json.loads() 
 
-
+## try except use 
+        print(traceback.format_exc())
+        logger.error(traceback.format_exc())    
 
 http://img105.job1001.com/upload/adminnew/2015-02-03/1422940854-U8D8OE4.pdf
 https://doc.lagout.org/programmation/python/Programming%20Python%2C%204th%20Edition%20%282010%29.pdf
