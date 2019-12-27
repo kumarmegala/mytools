@@ -1,4 +1,9 @@
 
+http://www.nltk.org/book/
+
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
+
 https://youtu.be/G4UVJoGFAv0
 
 - classification
