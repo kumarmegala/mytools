@@ -1,5 +1,5 @@
 
 
-nproc
-numastat -cm
+#nproc
+#numastat -cm
 
