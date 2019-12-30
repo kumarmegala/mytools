@@ -1,4 +1,7 @@
 
+
+lscpua
+
 nproc
 
 numactl --hardware
