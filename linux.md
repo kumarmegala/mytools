@@ -1,5 +1,6 @@
 
-##nproc
+nproc
 
-##numastat -cm
+
+numastat -cm
 
