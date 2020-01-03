@@ -1,3 +1,7 @@
+
+https://justinsighting.com/data-exploratory-analysis-student-alcohol-consumption/
+
+
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 
