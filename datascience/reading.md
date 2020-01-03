@@ -1,4 +1,7 @@
 
+Learn R
+https://cran.r-project.org/doc/manuals/r-release/R-intro.html
+
 https://justinsighting.com/data-exploratory-analysis-student-alcohol-consumption/
 
 http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/
