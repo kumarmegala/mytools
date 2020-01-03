@@ -1,6 +1,7 @@
 
 https://justinsighting.com/data-exploratory-analysis-student-alcohol-consumption/
 
+http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/
 
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
