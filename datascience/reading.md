@@ -1,5 +1,6 @@
 
 Learn R
+https://r4ds.had.co.nz - R for data science
 https://cran.r-project.org/doc/manuals/r-release/R-intro.html
 
 https://justinsighting.com/data-exploratory-analysis-student-alcohol-consumption/
