@@ -1,5 +1,7 @@
 
-#Json
+# https://realpython.com/python-code-quality/
+
+# Json
 use json.dumps() instead of str() so that json.dumps() can read by json.loads() 
 
 ## try except use 
