@@ -2,7 +2,10 @@ Using python:
 1.  get pthon addons from Microsoft : 
    https://code.visualstudio.com/docs/python/python-tutorial
 2. CMD+SHIFT+P  ( vscode command line )
- Terminal: Create New Integrated Terminal
+   search for
+  Terminal: Create New Integrated Terminal
+  Created terminal attached 
+
 
 3. create virtual env
   python3 -m venv .venv
