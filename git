@@ -30,6 +30,12 @@ git remote set-url origin  https://e7412790c5b680f18a3d0b34ab28c02d1f969c38@bbgi
 
 
 
+```
+delete local and remote 
+git branch -d <brnach_name>
+git push origin --delete <branch_name>
+```
+
 ============
 how to sync current branch with master
 git checkout master
