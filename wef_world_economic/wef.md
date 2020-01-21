@@ -18,3 +18,4 @@ Founder and Executive Chairman, World Economic Forum
 http://www3.weforum.org/docs/Global_Social_Mobility_Report.pdf
 
 
+https://www.weforum.org/agenda/2019/08/golden-truth-behind-welfare-dependency
