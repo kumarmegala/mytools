@@ -31,7 +31,14 @@ then graduate and  move to
 - near graducation
 =================
 
+In general any growth happens  with the combination of ( merit + network of connections + Meritocracy + bureaucracy + unknown_factors )
 
+Five D's or D^5
 
+Dream
+Design
+Develope
+Deliver
+Distribute
 
 
