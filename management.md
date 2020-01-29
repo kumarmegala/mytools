@@ -55,8 +55,8 @@ watch top of nose
 
 
 idea is : Just clear  -> I know what I need to do and How to do it? 
- - clutter free / 5 star hotel style setup
-skills -> earn -> financial independence ->
+- clutter free / 5 star hotel style setup
+- skills -> earn -> financial independence ->
 
 
 
