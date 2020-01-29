@@ -13,10 +13,11 @@ Projects
  - incubator
  - podling
 
-then graduate and  move to 
-    - attic
+then graduate
     - top level projecct
-----------------
+else move to attic
+
+
 - Meritocracy
 - bureaucracy
 - humaniocracy
