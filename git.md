@@ -9,6 +9,15 @@ git commit -m "mynew work"
 git push origin mynewwork
 =====================
 
+for xcode 
+mkdir search_task_ctrbt_aexcontr_dump
+open the foler search_task_ctrbt_aexcontr_dump
+Cmd-shift-P: SFTP create SFTP config file 
+Cmd-shift-P: SFTP 
+
+
+
+
 - create pull request from UI
 - it will create review
 - once review is done -- it will be in merged 
