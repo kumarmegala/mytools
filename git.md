@@ -61,4 +61,25 @@ git log --pretty=oneline
 
 
 
+git push origin use_svc_calls_gdco_gpgx
+To https://bbgithub.dev.bloomberg.com/ksundara/ctrnav.git
+ ! [rejected]        use_svc_calls_gdco_gpgx -> use_svc_calls_gdco_gpgx (fetch first)
+error: failed to push some refs to 'https://7b476debd32f22e2d9c00e5836b56c25d8d6f562@bbgithub.dev.bloomberg.com/ksundara/ctrnav.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+How to solve this 
+ - git stash your currnet changes
+ - refresh your master from remote(central) master
+ - create new pull request from 
+   - To myname/myproject (base master) <- remote-central-org/projecct (compare master)
+   - Merge pull request
+   - get pull origin master
+   - git checkout mybranch
+   - git merge master 
+
+
+
 
