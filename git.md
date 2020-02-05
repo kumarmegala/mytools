@@ -10,13 +10,13 @@ git commit -m "mynew work"
 
 
 # How to checkout remote branch
-
+```
 git clone  http://mygorg...git
 git branch
 git branch -r 
 git branch <newlocalbranch>  origin/<remotename>
 git checkoout <newlocalbranch>
-
+```
 
 
 
