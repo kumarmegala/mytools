@@ -7,14 +7,18 @@ git add
 ---------------------
 git commit -m "mynew work"
 
+git clone  http://mygorg...git
 
 
 # How to checkout remote branch
 ```
-git clone  http://mygorg...git
+
+git fetch origin
+git checkout -b <newbranch> origin/<newbranch>
+git diff mybranch newbrancg
+
 git branch
 git branch -r 
-git branch <newlocalbranch>  origin/<remotename>
 git checkoout <newlocalbranch>
 ```
 
