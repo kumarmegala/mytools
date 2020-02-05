@@ -4,7 +4,21 @@ git checkout mynewwork
 
 git add 
 
+---------------------
 git commit -m "mynew work"
+
+
+
+# How to checkout remote branch
+
+git clone  http://mygorg...git
+git branch
+git branch -r 
+git branch <newlocalbranch>  origin/<remotename>
+git checkoout <newlocalbranch>
+
+
+
 
 git push origin mynewwork
 =====================
@@ -44,7 +58,7 @@ git push origin --delete <branch_name>
 ```
 
 
-how to sync current branch with master
+#how to sync current branch with master
 git checkout master
 git pull
 git checkout mobiledevicesupport
