@@ -99,5 +99,8 @@ How to solve this
    - git merge master 
 
 
+# you have branch and refresh that branch
+git checkout <branchname>
+git pull origin <branchname>
 
 
