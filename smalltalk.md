@@ -20,6 +20,9 @@ http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&supplie
 https://www.ibm.com/support/pages/node/82829
 https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS905-093
 
+http://www.cincomsmalltalk.com/main/downloads/
+
+
 
 
 
