@@ -4,7 +4,7 @@ https://winworldpc.com/product/ibm-visualage-smalltalk/55
 
 http://www.edm2.com/index.php/VisualAge_Smalltalk
 
-https://squeak.org/ - Opensouce small talk
+https://squeak.org/ - Opensource small talk
 
 http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&supplier=897&letternum=ENUS202-107
 
