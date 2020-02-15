@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=eGaKZBr0ga4
+
+
 http://www.redbooks.ibm.com/redbooks/4instantiations/sg244828.pdf
 
 https://winworldpc.com/product/ibm-visualage-smalltalk/55
