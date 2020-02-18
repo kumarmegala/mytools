@@ -1,6 +1,6 @@
 https://abseil.io/tips/108
 
-
+https://learning.oreilly.com/library/view/modern-c-programming/9781941222423/
 https://github.com/fffaraz/awesome-cpp#game-engine
 
 
