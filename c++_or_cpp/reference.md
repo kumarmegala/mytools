@@ -1,3 +1,6 @@
+https://abseil.io/tips/108
+
+
 https://github.com/fffaraz/awesome-cpp#game-engine
 
 
