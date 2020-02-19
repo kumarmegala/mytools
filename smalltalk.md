@@ -1,3 +1,10 @@
+http://web.archive.org/web/20190131121111/http://www.cosc.canterbury.ac.nz/wolfgang.kreutzer/cosc205/smalltalk1.html
+https://squeak.org/ - Opensource small talk
+
+
+
+
+
 https://www.youtube.com/watch?v=eGaKZBr0ga4
 
 http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html
