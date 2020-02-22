@@ -17,6 +17,8 @@ https://www.dinamani.com/weekly-supplements/vellimani/2018/dec/28/%E0%AE%B8%E0%A
 https://www.dinamani.com/weekly-supplements/vellimani/2018/dec/28/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80-%E0%AE%A4%E0%AE%B0%E0%AF%8D%E0%AE%AE%E0%AE%9A%E0%AE%BE%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BE-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%AF%E0%AE%BE%E0%AE%A3-%E0%AE%B5%E0%AF%88%E0%AE%AA%E0%AE%B5%E0%AE%AE%E0%AF%8D-3066105.html
 
 
+https://www.facebook.com/thevillagegod/
+
 
 http://sivabgs.blogspot.com/2017/04/blog-post.html
 
