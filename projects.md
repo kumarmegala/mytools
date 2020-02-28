@@ -1,3 +1,17 @@
+
+
+
+2020-02-20 - 
+  https://itnext.io/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32
+  extend javascript using C++ library
+  
+  https://v8.dev/
+  https://v8.dev/docs
+  https://v8.dev/docs/build
+  
+  
+ 
+
 https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html
 
 https://clarifai.com/pricing
