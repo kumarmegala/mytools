@@ -58,6 +58,9 @@ watch top of nose
 idea is : Just clear  -> I know what I need to do and How to do it? 
 - clutter free / 5 star hotel style setup
 - skills -> earn -> financial independence ->
+=================
+                                                                                                  Monday, March 2, 20
 
-
+ "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."
+ Sir Arthur Conan Doyle
 
