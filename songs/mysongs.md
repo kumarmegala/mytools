@@ -13,10 +13,6 @@ Instruments
 
 https://youtu.be/XmmX4Qj5kHw
 
-https://youtu.be/qkLqDMhEdkM
-
-https://youtu.be/ICxWv8erD4U
-
 https://youtu.be/ICxWv8erD4U
 
 https://www.youtube.com/watch?v=gVK2ZgiHh0o
