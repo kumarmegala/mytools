@@ -1,4 +1,8 @@
 
+/bin/python3.7 -c "help('modules')"
+
+
+
 https://github.com/Grant6899/books/blob/master/Effective%20Python%20By%20Brett%20Slatkin%202015%20Addison%20Wesly.pdf
 
 
