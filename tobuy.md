@@ -1,4 +1,8 @@
+https://www.amscope.com/40x-2500x-led-digital-binocular-compound-microscope-w-3d-stage-1-3mp-usb-camera.html?utm_source=criteo&utm_medium=retargeting&utm_campaign=midfunnel&utm_term=product
+
+
 https://www.amazon.com/Dictionary-Financial-Risk-Management-Third/dp/1883249570/ref=olp_product_details?_encoding=UTF8&me=&qid=1581440565&sr=1-1
+
 
 
 
