@@ -1,3 +1,8 @@
+https://youtu.be/J5xExRGaIIY
+
+https://youtu.be/-E2tu3MqR24
+
+
 https://llvm.org/foundation/
 
 The current 2018-2020 LLVM Foundation Board of Directors:
@@ -11,4 +16,3 @@ Tanya Lattner (President)
 Chris Lattner
 John Regehr (Secretary)
 Tom Stellard
-
