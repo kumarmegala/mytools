@@ -1,4 +1,8 @@
 
+https://www.amazon.com/Untangled-Guiding-Teenage-Transitions-Adulthood/dp/0553393073/ref=sr_1_1?dchild=1&keywords=teenage+girl&qid=1593392582&s=books&sr=1-1
+
+
+
 https://learning.oreilly.com/library/view/quantitative-risk-management/9781118235935/c06anchor-1.html
 
 The Testing of Luther Albright
