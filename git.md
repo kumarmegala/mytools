@@ -1,4 +1,18 @@
-git clone http://myrepo.myname.mycom
+
+``
+git clone http://myrepo.myname.mycom -- one time only
+
+cd <currentdirecoty>
+cp combo.class .
+
+
+-- this you do for new changes
+git add .
+git commit -m testfile
+git push origin master
+
+
+```
 git branch mynewwork
 git checkout mynewwork
 
