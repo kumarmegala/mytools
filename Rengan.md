@@ -1,5 +1,7 @@
+```
 =================================
 // Draft
+typedef unlimited_storage GoogleFileSystem;
 Class Rengan
 {
 public:
@@ -18,8 +20,10 @@ public:
 	SpecialMoments();
 	{
 		..... 
-		if(mAge == 50) {
-			cout << "Many Many Happy returns of the day"  
+		switch(mAge){
+		..
+		case 50:
+			"Many Many Happy returns of the day" <- Kumar::Greetings()
 			...
 			...
 		}
@@ -31,3 +35,5 @@ friend class Kumar;  // Thanks for allowing me as your friend.
 
 };
 =================================
+
+```
