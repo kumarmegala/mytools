@@ -1,4 +1,6 @@
 
+
+https://developers.google.com/machine-learning/crash-course/ml-intro
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 https://pdfs.semanticscholar.org/b272/b9507866b309196d536c0f89cc2816ff389d.pdf?_ga=2.195389740.1440681302.1595797740-1489316313.1595797740
