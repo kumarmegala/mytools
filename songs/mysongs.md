@@ -1,8 +1,11 @@
 
 Memory
+
 https://youtu.be/GEgSBuYlSoA
 
 
+``
+``
 
 
 https://youtu.be/jEyiQ_xS0oo
