@@ -1,4 +1,7 @@
 
+Memory
+https://youtu.be/GEgSBuYlSoA
+
 
 
 
