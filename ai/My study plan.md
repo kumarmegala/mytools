@@ -1,4 +1,5 @@
-
+NLP
+https://youtu.be/3Dt_yh1mf_U
 
 https://developers.google.com/machine-learning/crash-course/ml-intro
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
