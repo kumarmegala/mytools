@@ -3,6 +3,7 @@ https://isqi.org/us/en/certified-selenium-tester-foundation
 
 http://index-of.es/Varios-2/Selenium-Programming-Cookbook.pdf
 
+https://www.testingexcellence.com/top-10-selenium-webdriver-books/
 
 https://www.bookvoed.ru/files/3515/54/76/9.pdf
 
